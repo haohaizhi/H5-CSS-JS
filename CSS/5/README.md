@@ -1,0 +1,3 @@
+# 脉冲效果
+
+<img src="https://github.com/haohaizhi/H5-CSS-JS/blob/main/images/5.gif">
